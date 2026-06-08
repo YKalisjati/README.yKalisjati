@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Yohanes Kalis Jati</h1>
-  <h3>Backend Developer • API Architect • Cloud Enthusiast</h3>
+<h3>Backend Developer • API Architect • Database Enthusiast</h3>
   
   <p>
-    Building scalable backend systems, designing reliable APIs, and turning complex business requirements into maintainable solutions.
+    Building scalable backend systems, writing complex database architectures, and turning business requirements into maintainable solutions.
   </p>
   
   <p>
@@ -20,46 +20,49 @@
 
 ## 🚀 About Me
 
-- 💼 Software Developer & Supervisor at **PT Indomarco Prismatama (Indomaret Group)**
-- 🔧 Specialized in **Backend Development, API Gateway Architecture, and System Integration**
-- ☁️ Experienced in designing and maintaining cloud-native deployments, secret management, and automated delivery pipelines
-- ⚙️ Working with containerized environments, GitOps workflows, and multi-environment infrastructure automation
-- 📈 Passionate about building scalable systems, deployment automation, and platform reliability
-- 🌱 Currently exploring **Microservices Architecture**, **Go**, and **Cloud Native Development**
+- 💼 Software Developer & Supervisor at **PT Indomarco Prismatama (Indomaret Group)**.
+- 🔧 Specialized in **Backend Development (PHP/Laravel & Go)** and **API Gateway Architecture**.
+- 🗄️ Deeply focused on **Heavy Database Operations**: designing tables, managing data partitions, handling background jobs, and writing complex functions/stored procedures to support APIs.
+- ⚙️ Experienced in debugging, tracing system bugs, and optimizing logic across both application code and database layers.
+- ☁️ Navigating and deploying within containerized ecosystems using Docker, Kubernetes, ArgoCD, and Vault.
+- 🌱 Continuously exploring serverless architecture and cloud services, heavily utilizing AWS and GCP.
 
 ## 🌟 Areas of Experience
 
-### 🔐 Secrets & Configuration Management
-Designed centralized secret management and automated configuration delivery workflows for containerized applications.
+### 🗄️ Advanced Database Management
+Extensive experience managing PostgreSQL and SQL Server. Proficient in creating scheduled jobs, managing data partitions for performance optimization, and writing complex Stored Procedures and Functions to handle heavy backend logic.
 
-### 🚀 GitOps & Deployment Automation
-Implemented deployment synchronization and infrastructure automation using GitOps practices and Kubernetes-based environments.
+### 🏢 Internal Enterprise Applications
+Developed robust internal tools, including dual-interface platforms (Web Admin and Mobile App) facilitating seamless corporate operations, content moderation, and employee communication.
 
-### 📡 Enterprise API Platforms
-Developed and maintained backend services, API gateways, and integration layers supporting large-scale operational systems.
+### 📍 Geolocation & Serverless Integrations
+Implemented precise tracking logic using AWS Location Services for employee attendance and utilizing AWS Lambda and API Gateway for serverless event handling.
 
-### 📢 Broadcast Messaging Systems
-Built scalable messaging workflows leveraging cloud-native storage and real-time data synchronization.
+### ☁️ Cloud & Infrastructure Utilization
+Familiar with utilizing established CI/CD pipelines and GitOps workflows. Effectively working within Kubernetes environments, managing cloud storage (GCS Buckets/Firebase), and utilizing Vault for secure secret retrieval.
 
 ## 🔥 Featured Projects
 
-- **📢 Broadcast Messaging Platform:** Scalable messaging system using Firebase Realtime Database and Firebase Storage with automated asynchronous media processing and data cleanup.
-- **🕒 Attendance System:** Enterprise attendance management system integrated with complex PostgreSQL stored procedures and API Gateway architecture.
-- **☁️ Deployment Synchronization Service:** Automated deployment and metadata synchronization service across multiple cloud environments.
+- **📱 Internal Corporate Social & Communication Platform:** Built a comprehensive social application (Mobile App for employees, Web Web for HR/Admin). Features include an interactive timeline (posts, likes, comments), a reporting system for moderation, direct employee-to-HR chat, FAQ sections, and HR broadcast messaging.
+- **📍 Geolocation-Based Attendance System (WFH/WFO):** Engineered a highly accurate attendance tracking system for mobile implementation. Integrated **AWS Location Services** for precise geofencing/range validation, supported by heavy database functions to record and validate employee shifts.
+- **📢 Scalable Broadcast Messaging:** Developed a broadcast and messaging workflow utilizing Firebase, GCP Buckets, and automated background jobs to handle media delivery and data synchronization.
 
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Databases
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & DevOps
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Cloud, AWS & DevOps Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
